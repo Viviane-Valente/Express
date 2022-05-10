@@ -1,0 +1,170 @@
+html {
+	margin: 0;
+	padding: 0;
+    background: url(https://www.teahub.io/photos/full/29-294240_russia-wallpaper-4k.jpg) no-repeat;
+    background-size: cover;
+	}
+body { 
+	line-height: 1.88889;
+	background-color: #ffffff98; 
+    padding: 0;
+    border-radius: 30px;
+    min-height: 43em;
+	padding-bottom: 1em;
+}
+
+.links{
+    background-color:rgba(245, 222, 179, 0.781);
+    height: 1em;
+    margin: -0.5em !important;
+    padding: 0.5em;
+    font-size: 2.5em;
+}
+
+a{
+    margin-left: 1.3em;
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #3e3e3f;
+}
+
+h1{
+    margin-left: 2em; 
+}
+
+img{
+    border-radius: 30px;
+    margin-left: 2em; 
+    border: 8px ridge rgba(150, 121, 67, 0.747);
+}
+
+.func{
+	color: #000000;
+}
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-left: 2em; 
+	color: #7D775C;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #3e3e3f;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #2d2b30;
+	}
+a:hover, a:focus, a:active { 
+	color: #000000;
+	}
+h4{
+    font: italic normal 1.1em georgia, sans-serif;
+    margin-left: 2em; 
+    
+}
+
+dl, h2{
+	margin-left: 2em;
+}
+
+dl{
+    font-weight: 600;
+}
+dt{
+    font-size: large;
+        
+}
+
+
+ul{
+    font-family: Georgia;
+    font-size: large;
+}
+
+table{
+    font-size: large;
+    margin: 2em; 
+	border: 0.2em double rgb(255, 255, 255);
+}
+tfoot{
+    font-size: small;
+}
+td{
+    border: 0.1em inset rgb(255, 255, 255);
+}
+table{
+    width: 406px;
+    
+}
+/*thead{
+    background-color: #ffffff8f;
+}*/
+
+button{
+	border: none;
+    background-color: #dcdcdc5d;
+	border-radius: 25px;
+}
+
+video{
+	margin-left: 2em;
+}
+
+table{ /** Faz o estilo da tabela inteira. **/
+	background: rgb(235, 206, 153); /** Coloca um fundo laranja. **/
+ }
+ tr{/** Faz o estilo para as linhas. **/
+	text-align: center; /** Centraliza o conteúdo. **/
+ }
+ th{/** Faz o estilo para as células do cabeçalho. **/
+	background: #666; /** Muda para um fundo cinza. **/
+	color: rgb(255, 255, 255); /** Troca a cor da fonte para branco. **/
+ }
+ td .esquerda{ /** É feito o estilo das celulas com o auxilio de uma classe. **/
+	text-align: left; /**Alinha o texto da primeira coluna para esquerda. **/
+ }
+ td .centro{
+	text-align: left; /**Centraliza o texto. **/
+ }
+ td .direita{
+	text-align: left; /**Coloca o texto para esquerda. **/
+ }
+
+ ul{
+	 float: center;
+    font-family: Georgia;
+    font-size: large;
+	list-style-type: none;
+  	margin: 1em;
+  	padding: 0;
+  	overflow: hidden;
+}
+
+li{
+	float: right;
+	display: block;
+ 	color: white;
+ 	text-align: center;
+  	text-decoration: none;
+}
+
+footer{
+	bottom: 0;
+	position: relative;
+	text-align: center;
+	background-color: rgba(190, 190, 190);
+}
+
+.contato{
+    border-radius: 100px;
+    max-width: auto;
+	max-height: 2em;
+	border: none;
+}
